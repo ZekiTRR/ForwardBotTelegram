@@ -34,7 +34,7 @@ This is a simple Telegram bot built using the **Pyrogram** library. The bot forw
 
 ---
 
-**Note:** A Russian version of this description is available here: [ReadmeRu.md](ReadmeRu.md).  
-**Примечание:** Русская версия описания доступна здесь: [ReadmeRu.md](ReadmeRu.md).
+**Note:** A Russian version of this description is available in repository 
+**Примечание:** Русская версия описания доступна в репозитории
 
 ---
