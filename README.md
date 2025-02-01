@@ -6,16 +6,16 @@ This is a simple Telegram bot built using the **Pyrogram** library. The bot forw
 
 ### Features:
 - Automatically forwards messages to a predefined channel.
-- Ignores the messages you've sent
-- Easy to set up
+- Ignores the messages you've sent.
+- Easy to set up.
 
 ### How to Use:
 1. Clone the repository.
-2. ** If you have a UNIX system,you should create a venv for python
-```bash
-python -m venv myvenv
-source myvenv/bin/activate
-```
+2. **If you have a UNIX system, you should create a venv for Python:**
+   ```bash
+   python -m venv myvenv
+   source myvenv/bin/activate
+   ```
 3. Install the required dependencies:
    ```bash
    pip install pyrogram
@@ -31,5 +31,10 @@ source myvenv/bin/activate
 ### Requirements:
 - Python 3.6 or higher.
 - A Telegram API ID and hash from [my.telegram.org](https://my.telegram.org).
+
+---
+
+**Note:** A Russian version of this description is available here: [ReadmeRu.md](ReadmeRu.md).  
+**Примечание:** Русская версия описания доступна здесь: [ReadmeRu.md](ReadmeRu.md).
 
 ---
